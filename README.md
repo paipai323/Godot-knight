@@ -1,4 +1,4 @@
-# 🎮 Project Title
+# 🎮 Godot-knight
 This is a simple 2D game built using the **Godot Engine 4**. It's a part of my journey into indie game development and serves as a learning project to practice core gameplay mechanics, polish, and design.
 
 ---
