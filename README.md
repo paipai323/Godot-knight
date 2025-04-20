@@ -5,7 +5,6 @@ This is a simple 2D game built using the **Godot Engine 4**. It's a part of my j
 
 ## 🚀 Features
 - Smooth character movement with physics
-- Jumping and gravity logic
 - Multiple tilemap layers (background, ground, foreground)
 ---
 
@@ -20,6 +19,8 @@ This is a simple 2D game built using the **Godot Engine 4**. It's a part of my j
 
 1. Download [Godot 4.x](https://godotengine.org/download)
 2. Clone this repository:
-
 ```bash
 git clone https://github.com/yourusername/project-name.git
+```
+3. Open the project with Godot and run
+
